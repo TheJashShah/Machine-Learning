@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
-data = pd.read_csv('Linear_Regression\placement.csv')
+data = pd.read_csv('Simple-Linear-Regression\placement.csv')
 
 # matplotlib plot
 plt.scatter(data['cgpa'], data['package'])

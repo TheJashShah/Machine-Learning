@@ -72,7 +72,7 @@ class LinearRegression:
     
 # CLASS #
 
-data = pd.read_csv('Linear_Regression/placement.csv')
+data = pd.read_csv('Simple-Linear-Regression/placement.csv')
 
 X = data.iloc[:,0].values
 Y = data.iloc[:,1].values
