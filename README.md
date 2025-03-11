@@ -6,5 +6,6 @@
 
 # Projects
  1. Student-Score-Predictor
+
     extremely simple project done only for confidence and to get a hang of using a somewhat real-life dataset.
     R2_score: 0.988
