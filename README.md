@@ -18,9 +18,27 @@
  3. Wine-Quality-Predictor
 
     Used a wine dataset that contains chemical details of wine samples to predict whether a wine is 'good' or 'bad'. (Regression performed badly, so used random-forest classifier).
+
     [
     Accuracy -> 0.765625
     Precision -> 0.7593582887700535
     Recall -> 0.8255813953488372
     F1 -> 0.7910863509749304
     ]
+
+ 4. Titanic-Survival-Predictor
+
+     Used Logistic Regression to predict whether a person lived or died on titanic, dataset from the Kaggle competition.
+
+     [
+      Model metrics:
+      Accuracy -> 0.8044692737430168
+      Precision -> 0.803030303030303
+      Recall -> 0.7066666666666667
+      F1 -> 0.75177304964539
+     ]
+     {Kaggle:
+         Submissions: 1
+         Score : 0.76555
+     }
+
