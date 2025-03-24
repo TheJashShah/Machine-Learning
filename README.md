@@ -42,3 +42,11 @@
          Score : 0.76555
      }
 
+   5. Car-Price-Predictor
+
+       Used Linear and Random Forest Regression to find the price of a car. 
+       [
+         Random Forest R2_Score -> 0.9260664172272787
+         Linear R2_Score -> 0.8493766905267994
+       ]
+
