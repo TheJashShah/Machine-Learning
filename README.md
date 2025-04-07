@@ -47,4 +47,5 @@
        Used Content-based filtering, text vectorization and cosine-similarity
        [
          Similarity-scores: 0.26 << x >> 0.37
+         dataset -> https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
        ]
