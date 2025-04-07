@@ -43,3 +43,8 @@
          Linear R2_Score -> 0.85
        ]
 
+   ## 6. Movie-Recommendation-System:
+       Used Content-based filtering, text vectorization and cosine-similarity
+       [
+         Similarity-scores: 0.26 << x >> 0.37
+       ]
